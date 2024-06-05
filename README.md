@@ -8,9 +8,7 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **Barsoumadly@gmail.com**
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/barsoum-adly-10084024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishoy-adly-7a88a6101" height="30" width="40" /></a>
@@ -35,6 +33,7 @@
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barsoumadly&show_icons=true&locale=en" alt="barsoumadly" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barsoumadly&" alt="barsoumadly" /></p>
