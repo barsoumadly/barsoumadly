@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/mr_algorithms7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_algorithms7" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/barsoum-adly-10084024b" target="blank"><i class="fa-brands fa-linkedin"></i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
