@@ -33,7 +33,8 @@
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barsoumadly&show_icons=true&locale=en" alt="barsoumadly" /></p>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1068085aba7675feca9a9eaf87b7007a695f916985df857fc5ce7f775c86fad8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d626172736f756d61646c792673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="left" src="https://camo.githubusercontent.com/1068085aba7675feca9a9eaf87b7007a695f916985df857fc5ce7f775c86fad8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d626172736f756d61646c792673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="barsoumadly" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=barsoumadly&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="barsoumadly" /></a> </p>
+<p>&nbsp;<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germdz&show_icons=true&locale=en&layout=compact" alt="barsoumadly" /></p> <br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=barsoumadly&show_icons=true&locale=en" alt="barsoumadly" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barsoumadly&" alt="barsoumadly" /></p>
