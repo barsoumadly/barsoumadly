@@ -33,7 +33,7 @@
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FullStackStar&label=Profile%20views&color=0e75b6&style=flat" alt="FullStackStar" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="FullStackStar" /></a> </p>
 
