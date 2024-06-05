@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/barsoum-adly-10084024b" target="blank"><img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="40" height="40"></a>
+<a href="www.linkedin.com/in/barsoum-adly-10084024b" target="blank"><img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="20" height="20"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
